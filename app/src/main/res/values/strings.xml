@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+    <string name="rock">Rock</string>
+    <string name="jazz">Jazz</string>
+    <string name="pop">Pop</string>
+    <string name="r_and_b"><![CDATA[R&B]]></string>
+    <string name="now_playing">now playing</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="song_name">Song Name</string>
+</resources>
